@@ -5,25 +5,22 @@
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuutaMatuda&layout=compact&theme=tokyonight)](https://github.com/YuutaMatuda/)
 
 <p align="left">
-  <a href="https://github.com/yutkat/yutkat/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+  <a href="https://github.com/YuutaMatuda/YuutaMatuda/">
+    <img src="https://komarev.com/ghpvc/?username=YuutaMatuda" alt="YuutaMatuda"/>
   </a>
-  <a href="http://twitter.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  <a href="https://github.com/YuutaMatuda">
+    <img height="20" src="https://img.shields.io/github/followers/YuutaMatuda?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://github.com/yutkat">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  <a href="https://www.reddit.com/user/YuutaMatuda">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/YuutaMatuda?label=Reddit&logo=reddit&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/yutkat">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/yutkat">
+  <a href="https://stackoverflow.com/users/5720201/YuutaMatuda">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="http://qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+  <a href="http://qiita.com/YuutaMatuda">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/YuutaMatuda/posts.svg" />
   </a>
-  <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+  <//qiita.com/YuutaMatuda">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/YuutaMatuda/contributions.svg" />
   </a>
 </p>
