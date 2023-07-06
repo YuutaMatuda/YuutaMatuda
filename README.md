@@ -1,4 +1,4 @@
-<h1 align="center">WLECOME</h1>
+<h1 align="center">WELCOME</h1>
 <h3 align="center">A passionate backend developer from Japan</h3>
 
 <h3 align="left">Connect with me:</h3>
